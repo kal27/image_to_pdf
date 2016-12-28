@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="converter.dassem.com.fileconverter.MainActivity">
+    <item
+        android:id="@+id/open_file"
+        android:orderInCategory="100"
+        android:title="@string/open"
+        app:showAsAction="never" />
+</menu>
